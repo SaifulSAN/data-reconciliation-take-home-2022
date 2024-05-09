@@ -1,0 +1,9 @@
+Date Range for Report is from 2021-07-03 to 2021-07-31
+Number of Source Records Processed is: 10
+Number of Discrepancies is: 3
+The discrepancies are as follows: 
+Number of MISMATCHED AMOUNT: 2
+Number of MISMATCHED DESCRIPTION: 0
+Number of MISMATCHED DATE: 0
+Number of MISMATCHED ID: 0
+Number of MISSING ENTRIES: 1
